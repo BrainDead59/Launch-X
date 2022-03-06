@@ -1,0 +1,11 @@
+body{
+    background-color: #EFF2C0;
+}
+header{
+    display: flex;
+    align-items:flex-end;
+}
+
+.titulo{
+    margin-left: 10px;
+}
