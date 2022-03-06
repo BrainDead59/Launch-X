@@ -1,0 +1,25 @@
+*{
+    background-color: #A4BAB7;
+    /* display: flex; */
+}
+
+
+.datos{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+
+.combinar{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+
+#boton{
+    margin-top: 20px;
+}
+
+h1{
+    text-align:center;
+}
